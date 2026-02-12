@@ -8,3 +8,6 @@ function sayName(){
 function sayAge(){
     console.log(`My age is` + age);
 }
+function newFeatureAdd() {
+    console.log('This is new feat')
+}
