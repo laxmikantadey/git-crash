@@ -8,3 +8,4 @@ function sayName(){
 function sayAge(){
     console.log(`My age is` + age);
 }
+console.timeLog
